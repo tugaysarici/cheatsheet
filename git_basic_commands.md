@@ -136,3 +136,6 @@
 > Çalışma dizini ve staged ortamı arasındaki farkları görmek için:
 
 >> $ git diff --staged
+
+
+[For more](https://commonmark.org/)
